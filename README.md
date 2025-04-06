@@ -137,6 +137,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 📬 Submission Details
 
-- **Repository:** https://github.com/your-username/auth_microservice  
+- **Repository:** https://github.com/Kunjan1810/auth_microservice  
 - **⏱️ Time Spent:** ~6 hours  
-- **🧱 Boilerplate Used:** None / You can mention if you used one like [jwt-django-starter](https://github.com/example/jwt-django-starter)
+- **🧱 Boilerplate Used:** None
